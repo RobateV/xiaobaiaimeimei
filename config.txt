@@ -11,7 +11,7 @@
 
 # 信息配置
 #和风天气apikey
-"weather_key":"98ad4ba01e1b432982930f2afb1cda74s"，
+"weather_key":"98ad4ba01e1b432982930f2afb1cda74s",
 "region": "成都",
 # 所在省份
 "province": "四川",
