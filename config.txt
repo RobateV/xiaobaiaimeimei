@@ -11,12 +11,12 @@
 
 # 信息配置
 #和风天气apikey
-"weather_key":"98ad4ba01e1b432982930f2afb1cda74s"，
-"region":"成都"，
+"weather_key":"98ad4ba01e1b432982930f2afb1cda74s",
+"region":"成都",
 # 所在省份
-"province": 四川",
+"province":"四川",
 # 所在城市
-"city": "成都",
+"city":"成都",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "梅梅宝贝", "birthday": "r1996-12-13"},
 # 生日2
