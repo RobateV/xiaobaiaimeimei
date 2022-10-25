@@ -1,17 +1,17 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wxdb973858e0eb888c",
+"app_id": "wx8d33d0c09a62a3ae",
 # 公众号appSecret
-"app_secret": "09e73dc308cf9955d19cd03f55d4718a",
+"app_secret": "c87a661bf0f38d5752f94991dfbf98fb",
 # 模板消息id
-"template_id": "vMgwLjpbAdJU93QOtRkZo6oYIjQHbJ1_fWXcN_lViuo",
+"template_id": "fUP9qeu9BzdlQFhvPoOSTOKAaxiVnOrGebKd36ADzrM",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oexdC57xXYlxe_tqb-Eo-Sh-ACX0"],
+"user": ["or3RF6k-8CIoY5awWToE7BBGjwKQ"],
 
 # 信息配置
 #和风天气apikey
-"weather_key":"98ad4ba01e1b432982930f2afb1cda74s",
+"weather_key":"98ad4ba01e1b432982930f2afb1cda74",
 "region": "成都",
 # 所在省份
 "province": "四川",
